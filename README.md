@@ -18,6 +18,6 @@
 
 # git clone https://github.com/BrainCenter/
 
-cd BrainCenter
+# cd BrainCenter  
 
-python2 BrainCenter.py
+# python2 BrainCenter.py
